@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_Houston_Morgan", "Conditionals_Houston_Morgan.csproj", "{1E3C82EE-9929-4584-A88E-4AEF50EF9217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3C82EE-9929-4584-A88E-4AEF50EF9217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3C82EE-9929-4584-A88E-4AEF50EF9217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3C82EE-9929-4584-A88E-4AEF50EF9217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3C82EE-9929-4584-A88E-4AEF50EF9217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06ECA8C4-2B73-4AE2-A091-B48E93B990F0}
+	EndGlobalSection
+EndGlobal
